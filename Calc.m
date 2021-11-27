@@ -1,6 +1,6 @@
 Vel = [1:0.01:50];      #Velocities with 0.01 increment
 visc = 15.89*10^-6;     #Viscosity at 300K
-Width = 5000*10^-6;         #Probe Diameter (Fixed for this calculation)
+Width = 5000*10^-6;     #Probe Diameter (Fixed for this calculation)
 k = 0.0263;             #Thermal conductivity at 300K
 ro = 10.6*10^-8;        #Resistivity of Platinum
 
